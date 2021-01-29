@@ -257,7 +257,7 @@ int main()
    // 	cout<<"yes loop is there";
    // }
    // else{
-   // 	cout<<"No loop there"<<endl;
+   // 	cout<<"No loop there"<<endl;                        we can use topological sorting to check whether ther is loop or not but after this the indegree array will be modified
    // }
   // cout<<"DFS called "; DFS(brr,v);
   // cout<<"\ntopological called "; topological(brr,indegree,v);
